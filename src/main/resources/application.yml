@@ -78,4 +78,4 @@ spring:
           contentType: application/json
 api:
   url:
-    payment: http://teamb-payment:8080
+    payment: http://admin14-payment:8080
